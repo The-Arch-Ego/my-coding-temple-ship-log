@@ -1,0 +1,1 @@
+use compasses to determine which direction you are going. magnets may interfere.
